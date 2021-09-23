@@ -3,6 +3,8 @@ import Navigation from './components/Navigation';
 import SaladMaker from './components/SaladMaker';
 import UserContext from './components/User';
 
+//App JS
+
 const user = {
     name: 'Jerome',
     favorites: [
